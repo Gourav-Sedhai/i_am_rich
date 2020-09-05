@@ -1,2 +1,2 @@
 # i_am_rich
-Simple app using fllutter.
+Simple i_am_rich app using fllutter.
