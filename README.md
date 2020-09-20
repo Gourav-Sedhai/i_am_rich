@@ -1,1 +1,1 @@
-Simple I Am Rich app.
+I Am Rich app.
