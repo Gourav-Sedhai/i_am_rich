@@ -1,1 +1,1 @@
-I Am Rich app.
+I Am Rich flutter app.
